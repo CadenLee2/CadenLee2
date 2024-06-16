@@ -1,3 +1,6 @@
-Hi, I'm Caden!
+# Hi, I'm Caden!
 
-This is a new account (2023/10/28), so check back in the future to see what I'm working on.
+I'm an avid software developer and computer science student at UC Irvine.
+<br>This is my professional/academic account.
+<br>*My Site:* <https://cadenlee2.github.io>
+<br>*My personal GitHub account (find my projects here):* [@Cadecraft](https://github.com/Cadecraft)
