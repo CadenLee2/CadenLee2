@@ -9,15 +9,15 @@ I'm an avid software developer and computer science student at UC Irvine.
 This is my professional/academic account.
 <br>Curious about my personal projects and contributions? Check out:
 
-[![ButtonProfile]][Link]
+[![ButtonProfile]][LinkProfile]
 
-[Link]: https://github.com/Cadecraft/ 'Personal GitHub Account'
+[LinkProfile]: https://github.com/Cadecraft/ 'Personal GitHub Account'
 
 [ButtonProfile]: https://img.shields.io/badge/🔨📊%20My%20Personal%20Account-37a779?style=for-the-badge
 
-[![ButtonWebsite]][Link]
+[![ButtonWebsite]][LinkWebsite]
 
-[Link]: https://github.io/CadenLee2/ 'My Site'
+[LinkWebsite]: https://cadenlee2.github.io/ 'My Site'
 
 [ButtonWebsite]: https://img.shields.io/badge/🌎💻%20My%20Site-4badd1?style=for-the-badge
 
